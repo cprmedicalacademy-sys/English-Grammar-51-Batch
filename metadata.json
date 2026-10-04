@@ -1,0 +1,6 @@
+{
+  "name": "CPR Medical Academy - BCS Special Batch 51 Exam",
+  "description": "Official Online Examination Portal for CPR Medical Academy BCS Special Batch 51 (Topic: English Grammar) with real-time timer, negative marking, instant scorecard, and detailed solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
